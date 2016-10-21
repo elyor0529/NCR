@@ -1,6 +1,0 @@
-D:\projects\NCR\NCR\NCR.Demo\bin\Debug\NCR.Demo.exe.config
-D:\projects\NCR\NCR\NCR.Demo\bin\Debug\NCR.Demo.exe
-D:\projects\NCR\NCR\NCR.Demo\bin\Debug\NCR.Demo.pdb
-D:\projects\NCR\NCR\NCR.Demo\obj\Debug\NCR.Demo.csprojResolveAssemblyReference.cache
-D:\projects\NCR\NCR\NCR.Demo\obj\Debug\NCR.Demo.exe
-D:\projects\NCR\NCR\NCR.Demo\obj\Debug\NCR.Demo.pdb

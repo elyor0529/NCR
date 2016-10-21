@@ -1,6 +1,0 @@
-D:\projects\NCR\NCR\NCR.Test\bin\Debug\NCR.Test.dll
-D:\projects\NCR\NCR\NCR.Test\bin\Debug\NCR.Test.pdb
-D:\projects\NCR\NCR\NCR.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\projects\NCR\NCR\NCR.Test\obj\Debug\NCR.Test.csprojResolveAssemblyReference.cache
-D:\projects\NCR\NCR\NCR.Test\obj\Debug\NCR.Test.dll
-D:\projects\NCR\NCR\NCR.Test\obj\Debug\NCR.Test.pdb
