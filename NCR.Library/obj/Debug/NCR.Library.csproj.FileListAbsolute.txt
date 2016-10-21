@@ -1,0 +1,5 @@
+D:\projects\NCR\NCR\NCR.Library\bin\Debug\NCR.Library.dll
+D:\projects\NCR\NCR\NCR.Library\bin\Debug\NCR.Library.pdb
+D:\projects\NCR\NCR\NCR.Library\obj\Debug\NCR.Library.csprojResolveAssemblyReference.cache
+D:\projects\NCR\NCR\NCR.Library\obj\Debug\NCR.Library.dll
+D:\projects\NCR\NCR\NCR.Library\obj\Debug\NCR.Library.pdb
